@@ -15,4 +15,4 @@ Proje kapsamında aşağıdaki veri bilimi süreçleri uygulanmıştır:
 
 ## Nasıl Çalıştırılır?
 1. Bu depoyu klonlayın.
-2. `jupyter notebook` ortamında `Data_Project.ipynb` dosyasını açın ve hücreleri çalıştırın.
+2. `jupyter notebook` ortamında `Happiness_Index_Exploration.ipynb` dosyasını açın ve hücreleri çalıştırın.
